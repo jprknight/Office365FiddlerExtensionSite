@@ -2,6 +2,7 @@
 layout: page
 title: About
 Permalink: /About/
+author_profile: true
 ---
 
 # H1 Header
