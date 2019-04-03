@@ -23,8 +23,8 @@ description              : "Portfolio"
 url                      : "https://jprknight.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
 repository               : "jprknight/portfolio" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/images/computer-1245714_1280.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/images/computer-1245714_1280.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Jeremy Knight Portfolio" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -106,10 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Jeremy Knight"
+  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Technologist, Mentor, Problem Solver"
+  location         : "Charlotte, NC"
   email            :
   links:
     - label: "Email"
@@ -120,13 +120,13 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/jprknight"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/jprknight"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -293,3 +293,11 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+      values:
+      layout: single
+      author_profile: true
