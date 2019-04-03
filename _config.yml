@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeremy Knight"
-  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Technologist, Mentor, Problem Solver"
   location         : "Charlotte, NC"
   email            :
@@ -124,15 +124,15 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/jprknight/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jprknight"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/jprknight/
 
 # Site Footer
 footer:
@@ -143,6 +143,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/jprknight/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jprknight"
@@ -155,9 +158,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/jprknight/
 
 
 # Reading Files
