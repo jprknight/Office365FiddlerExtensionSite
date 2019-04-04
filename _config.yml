@@ -25,7 +25,7 @@ baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
 repository               : "jprknight/portfolio" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Under Construction!" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Jeremy Knight" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Jeremy Knight"
   avatar           : "/assets/images/avatar-700x700.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Site under construction!"
+  bio              : "Technologist, Mentor, Problem Solver"
   location         : "Charlotte, NC"
   email            :
   links:
@@ -126,12 +126,12 @@ author:
       # url: "https://facebook.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/jprknight/
+      url: "https://www.linkedin.com/in/jprknight/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jprknight"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
@@ -145,7 +145,7 @@ footer:
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/jprknight/
+      url: "https://www.linkedin.com/in/jprknight/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jprknight"
