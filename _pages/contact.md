@@ -2,6 +2,8 @@
 layout: single
 title: "Contact"
 permalink: /contact/
+share: true
+author_profile: true
 header:
     image: "/assets/images/panorama-2391345_1280.jpg"
 ---
