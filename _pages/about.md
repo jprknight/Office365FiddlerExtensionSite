@@ -1,10 +1,10 @@
 ---
 layout: single
-title: About
-canonical_url: https://jprknight.github.io/portfolio/about/
+title: "About"
+permalink: /about/
+author_profile: true
 ---
 
-# H1 Header
+Coming soon...
 
-kjhsdfkljhslfjhgljhdflgjhldsghdlgh
 
