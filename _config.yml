@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeremy Knight"
-  avatar           : "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar-700x700.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Site under construction!"
   location         : "Charlotte, NC"
   email            :
@@ -307,5 +307,3 @@ defaults:
       values:
       layout: single
       author_profile: true
-
-include: ["_pages"]
