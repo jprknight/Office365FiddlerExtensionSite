@@ -301,8 +301,6 @@ defaults:
       comments: # true
       share: true
       related: true
-      header:
-        image: "/assets/images/panorama-2391345_1280.jpg"
       
   # _pages
   - scope:
@@ -311,6 +309,3 @@ defaults:
       values:
       layout: single
       author_profile: true
-      share: true
-      header:
-        image: "/assets/images/panorama-2391345_1280.jpg"
