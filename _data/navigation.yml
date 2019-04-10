@@ -4,6 +4,8 @@ main:
     #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Download"
     url: "/Where-To-Get-The-Extension/"
+  - title: "Source Code"
+    url: "/Extension-Source-Code/"
   - title: "Wiki"
     url: "https://www.webdebugging.com/The-Extension-Wiki/"
   - title: "Issues"
