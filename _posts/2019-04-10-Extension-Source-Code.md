@@ -10,4 +10,4 @@ Whether you want to contribute to the project or simply review code, it is avail
 
 If you are looking to find out more about the types of issues the extension detects and reacts upon, the SessionProcessor.cs file will be of interest to look through. It is not a light read however, there is a large switch statement based on HTTP response codes. Each switch likely contains an if then else statement of varying complexity, depending on how many scenarios we have seen from previous support cases.
 
-Any feedback or comments are welcome at the <a href="https://aka.ms/O365FiddlerExtensionIssues" target="_blank">issues</a> Github page.
+Any feedback or comments are welcome at the <a href="https://aka.ms/O365FiddlerExtensionIssues" target="_blank">issues</a> Github project page.

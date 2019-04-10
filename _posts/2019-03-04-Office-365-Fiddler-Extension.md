@@ -10,4 +10,4 @@ We would like greater impact with the Fiddler Extension. With this in mind the n
 
 You will still be able to troubleshoot Exchange Online issues the same as before. From a design perspective we are expanding our scope to include any and all Office 365 client applications. This should mean a better overall experience and a more useful tool for troubleshooting!
 
-Any feedback or comments are welcome at the <a href="https://aka.ms/O365FiddlerExtensionIssues" target="_blank">issues</a> Github page.
+Any feedback or comments are welcome at the <a href="https://aka.ms/O365FiddlerExtensionIssues" target="_blank">issues</a> Github project page.
