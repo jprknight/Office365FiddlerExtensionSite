@@ -1,6 +1,6 @@
 ---
 title: Updates
 layout: tag
-permalink: /tags/updates
+permalink: /tags/{% tag %}
 taxonomy: updates
 ---
