@@ -3,7 +3,7 @@ main:
   #- title: "Quick-Start Guide"
     #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Download"
-    url: "https://aka.ms/EXOFiddlerExtension"
+    url: "/Where-To-Get-The-Extension/"
   - title: "Wiki"
     url: "https://aka.ms/O365FiddlerExtensionWiki"
   - title: "Issues"
