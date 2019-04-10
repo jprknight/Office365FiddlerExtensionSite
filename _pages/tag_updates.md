@@ -1,6 +1,5 @@
 ---
-title: Updates
-layout: tag
-permalink: "/tags/updates"
-taxonomy: updates
+title: Tags
+layout: tags
+permalink: "/tags/"
 ---
