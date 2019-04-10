@@ -6,7 +6,6 @@ tags: [Updates]
 header:
     image: "/assets/images/panorama-2391345_1280.jpg"
 excerpt: "The 'Exchange Online Fiddler Extension' has become the 'Office 365 Fiddler Extension'."
-classes: wide
 ---
 We would like greater impact with the Fiddler Extension. With this in mind the next release of the 'Exchange Online Fiddler Extension' will become the 'Office 365 Fiddler Extension'.  
 
