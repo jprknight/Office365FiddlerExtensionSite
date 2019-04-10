@@ -2,10 +2,14 @@
 main:
   #- title: "Quick-Start Guide"
     #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: about/
-  - title: "Contact"
-    url: contact/
+  - title: "Download"
+    url: "https://aka.ms/EXOFiddlerExtension"
+  - title: "Wiki"
+    url: "https://aka.ms/O365FiddlerExtensionWiki"
+  - title: "Issues"
+    url: "https://aka.ms/O365FiddlerExtensionIssues"
+  - title: "EHLO Blog"
+    url: "https://aka.ms/EHLOBlogArticle"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
