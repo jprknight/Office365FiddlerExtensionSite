@@ -12,3 +12,5 @@ excerpt: "Where to download the Office 365 Fiddler Extension. All the informatio
 You can download the Office 365 Fiddler Extension <a href="https://aka.ms/O365FiddlerExtension" target="_blank">here</a>.
 
 This is a link to the latest release available on Github.com. The installer is a .msi installer which currently requires administrator privileges to install.
+
+Any feedback or comments are welcome at the <a href="https://aka.ms/O365FiddlerExtensionIssues" target="_blank">issues</a> Github page.
