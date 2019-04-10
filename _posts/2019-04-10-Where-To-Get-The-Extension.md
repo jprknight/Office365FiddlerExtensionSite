@@ -4,10 +4,10 @@ date: 2019-04-10
 tags: [Office 365, Fiddler, Web Debugging]
 header:
     image: "/assets/images/panorama-2391345_1280.jpg"
-excerpt: "Where to download the Office 365 Fiddler Extension."
+excerpt: "Where to download the Office 365 Fiddler Extension. All the information you need is here."
 ---
 
-<h2>Where is the Fiddler Extension available for download? All the information you need is here.</h2>
+<h2>Where is the Fiddler Extension available for download?</h2>
 
 You can download the Office 365 Fiddler Extension <a href="https://aka.ms/O365FiddlerExtension" target="_blank">here</a>.
 
