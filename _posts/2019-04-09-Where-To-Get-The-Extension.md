@@ -1,6 +1,7 @@
 ---
 title: "Where to download the extension"
 date: 2019-04-09
+Categories: [Knowledge Base]
 tags: [Download]
 header:
     image: "/assets/images/panorama-2391345_1280.jpg"

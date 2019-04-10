@@ -1,6 +1,7 @@
 ---
 title: "Raising issues on the extention"
 date: 2019-04-09
+Categories: [Knowledge Base]
 tags: [Issues]
 header:
     image: "/assets/images/panorama-2391345_1280.jpg"
