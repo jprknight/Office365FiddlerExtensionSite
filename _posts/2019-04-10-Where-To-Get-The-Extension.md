@@ -3,7 +3,7 @@ title: "Where to get the extension"
 date: 2019-04-10
 tags: [Office 365, Fiddler, Web Debugging]
 header:
-    #image: "/assets/images/computer-1245714_1280.jpg"
+    image: "/assets/images/panorama-2391345_1280.jpg"
 excerpt: "Where to get the Office 365 Fiddler Extension."
 ---
 
