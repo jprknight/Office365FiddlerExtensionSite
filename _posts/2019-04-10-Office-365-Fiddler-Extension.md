@@ -1,6 +1,6 @@
 ---
 title: "The 'Exchange Online Fiddler Extension' is now the 'Office 365 Fiddler Extension'"
-date: 2019-03-04
+date: 2019-04-10
 tags: [Office 365, Fiddler, Web Debugging]
 header:
     image: "/assets/images/panorama-2391345_1280.jpg"
