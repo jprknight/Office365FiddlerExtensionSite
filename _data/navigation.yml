@@ -10,8 +10,8 @@ main:
     url: "https://www.webdebugging.com/The-Extension-Wiki/"
   - title: "Issues"
     url: "https://www.webdebugging.com/Raising-Issues-On-The-Extension/"
-  - title: "EHLO Blog"
-    url: "https://aka.ms/EHLOBlogArticle"
+  #- title: "EHLO Blog"
+  #  url: "https://aka.ms/EHLOBlogArticle"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
