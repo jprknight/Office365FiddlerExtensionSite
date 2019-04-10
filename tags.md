@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tag
+permalink: "/tagtest/"
 ---
 
 {% comment %}
