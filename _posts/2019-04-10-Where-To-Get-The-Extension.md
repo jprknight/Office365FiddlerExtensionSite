@@ -1,10 +1,10 @@
 ---
-title: "Where to get the extension"
+title: "Where to download the extension"
 date: 2019-04-10
 tags: [Office 365, Fiddler, Web Debugging]
 header:
     image: "/assets/images/panorama-2391345_1280.jpg"
-excerpt: "Where to get the Office 365 Fiddler Extension."
+excerpt: "Where to download the Office 365 Fiddler Extension."
 ---
 
 <h2>Where is the Fiddler Extension available for download? All the information you need is here.</h2>
