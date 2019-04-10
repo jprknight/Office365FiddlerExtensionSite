@@ -6,7 +6,7 @@ header:
     image: "/assets/images/panorama-2391345_1280.jpg"
 excerpt: "The Extension Wiki."
 ---
-You can get to the extension wiki pages <a href="https://aka.ms/O365FiddlerExtensionWiki" target="_blank>here</a>.
+You can get to the extension wiki pages <a href="https://aka.ms/O365FiddlerExtensionWiki" target="_blank">here</a>.
 
 This website is used for late breaking information on the extension such as release notes. The wiki on the other hand is a repository for useful knowledge about the extension.
 
