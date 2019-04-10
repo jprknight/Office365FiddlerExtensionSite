@@ -7,7 +7,7 @@ header:
 excerpt: "Where to get the Office 365 Fiddler Extension."
 ---
 
-<h2>Where to get the Extension</h2>
+<h2>Where is the Fiddler Extension available for download? All the information you need is here.</h2>
 
 You can download the Office 365 Fiddler Extension <a href="https://aka.ms/O365FiddlerExtension" target="_blank">here</a>.
 
