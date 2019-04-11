@@ -1,7 +1,7 @@
 ---
 title: "The Extension Wiki"
 date: 2019-04-09
-Categories: [Knowledge-Base]
+categories: [Knowledge-Base]
 tags: [Wiki]
 header:
     image: "/assets/images/panorama-2391345_1280.jpg"
