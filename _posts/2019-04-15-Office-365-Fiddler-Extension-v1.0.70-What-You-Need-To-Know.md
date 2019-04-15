@@ -10,6 +10,8 @@ excerpt: "v1.0.70 will be the next release of the extension, everything you need
 
 Anyone who is already using the Exchange Online Fiddler Extension, up to version 1.0.63, is used to the extension working a certain way. 
 
+Release date: To Be Determined, though planned for end of April / beginning of May 2019.
+
 Here is a list of the things you need to know in the new release to make your transition easier:
 
 * First and foremost, the 'Exchange Online Fiddler Extension' will be known as the 'Office 365 Fiddler Extension' going forward.
