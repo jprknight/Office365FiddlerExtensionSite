@@ -1,6 +1,6 @@
 ---
 title: "Why Collect Telemetry?"
-date: 2019-04-09
+date: 2019-04-15
 categories: [Knowledge-Base]
 tags: [Telemetry]
 header:
