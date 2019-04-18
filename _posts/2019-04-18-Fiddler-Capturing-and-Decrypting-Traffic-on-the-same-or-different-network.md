@@ -44,7 +44,7 @@ This gives client devices the ability to download the certificate easily from th
 
 Out of the box the Fiddler Echo Service is available on the local machine the Fiddler proxy is running on. You should have no issue going to http://localhost:8888/ and seeing the page.
 
-The issue will be connecting to the Fiddler echo service from a remote location. In the exmaple discussed we have Fiddler running on a Windows server in Azure. The connections make it to the machine as the sessions are seen captured by Fiddler. What we do not yet get on the remote device is the Fiddler Echo Service page, the browser just spins.
+The issue will be connecting to the Fiddler echo service from a remote location. In the example discussed we have Fiddler running on a Windows server in Azure. The connections make it to the machine as the sessions are seen captured by Fiddler. What we do not yet get on the remote device is the Fiddler Echo Service page, the browser just spins.
 
 ## Setup the Fiddler Echo Service
 
@@ -72,7 +72,7 @@ Fig 3:
 
 ## Client configuration
 
-1. We now have a Fiddler Echo Service page which loads for any client on the internet, regardless of whether the machine / device is configured to use the Fiddler proxy in it's proxy settings or not.
+1. We now have a Fiddler Echo Service page which loads for any client on the internet, regardless of whether the machine / device is configured to use the Fiddler proxy in its proxy settings or not.
 2. Clients need to download the certificate from the Fiddler Echo Service page, install it and trust it, so the Fiddler proxy can decrypt the traffic.
 
     a. In iOS 10.3 and above certificates need to be trusted as well as installed. See https://support.apple.com/en-us/HT204477 for details.
