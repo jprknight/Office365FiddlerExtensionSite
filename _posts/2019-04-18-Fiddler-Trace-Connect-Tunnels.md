@@ -27,4 +27,4 @@ The certificate Fiddler creates when you enable the 'Decrypt HTTPS traffic' is a
 
 Raise this as a discussion point with your security team and see if they are able to allow Fiddler on a temporary or limited basis. It may even be necessary to use Fiddler with a certificate from a load balancer or other network device.
 
-Reference: https://docs.telerik.com/fiddler/Configure-Fiddler/Tasks/DecryptHTTPS
+Reference: <a href="https://docs.telerik.com/fiddler/Configure-Fiddler/Tasks/DecryptHTTPS" target="_blank">https://docs.telerik.com/fiddler/Configure-Fiddler/Tasks/DecryptHTTPSM</a>
