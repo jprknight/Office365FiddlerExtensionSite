@@ -74,6 +74,8 @@ Fig 3:
 
 1. We now have a Fiddler Echo Service page which loads for any client on the internet, regardless of whether the machine / device is configured to use the Fiddler proxy in it's proxy settings or not.
 2. Clients need to download the certificate from the Fiddler Echo Service page, install it and trust it, so the Fiddler proxy can decrypt the traffic.
+
     a. In iOS 10.3 and above certificates need to be trusted as well as installed. See https://support.apple.com/en-us/HT204477 for details.
+
     b. Devices then need to be set to use the Fiddler proxy. See connection settings on the device.
 3. Mobile devices (iOS/Android), Windows or any other device for that matter can be setup to route traffic through this proxy, so the requests/responses can be captured and reviewed for troubleshooting.
