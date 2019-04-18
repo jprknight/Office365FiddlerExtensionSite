@@ -57,14 +57,15 @@ The issue will be connecting to the Fiddler echo service from a remote location.
 7. Stop capturing. Notice we do not enable this again, we do not need to capture any more local traffic.
 8. Back in fiddler select all frames on the left hand side, then CTRL click the two frames shown below in Fig 3 to deselect those frames. Everything else is just noise,  including the favicon. Remove the selected sessions.
 9. We want to only see the two frames shown below in Fig 3.
+10. Go to the AutoResponder tab.
 11. Drag and drop the two frames from the left panel to the right panel one at a time.
 12. This creates two rules for the AutoResponder.
 13. Ensure you check both 'Enable rules' and 'Unmatched requests passthrough'.
 14. Look towards the bottom of the rule list and you will see rule editor.
-15. Your rules will currently say 'EXACT:http://localhost:8888/' for example.
-16. You need to edit these so they resemble the rules in Fig 3 below. In my example the rules are changed to ':8888/' and ':8888/FiddlerRoot.cer'. Without those quotation marks!
+15. The rules will currently be 'EXACT:http://localhost:8888/' for example.
+16. Edit these so they resemble the rules in Fig 3 below. In the example the rules are changed to ':8888/' and ':8888/FiddlerRoot.cer'. Without those quotation marks!
 17. Make sure to click Save on the bottom right as you edit each rule.
-18. **Special Note**: It is possible at this point on your remote client device or computer, with or without proxy settings setup to direct web traffic to the Fiddler proxy, can load the Fiddler Echo Service page; However, cannot download the certificate. This can be fixed by 'Promoting' the FiddlerRoot.cer rule above the :8888/ rule. Right click on the Fiddler.cer rule and click Promote.
+18. **Special Note**: It is possible at this point on your remote client device or computer, with or without proxy settings setup to direct web traffic to the Fiddler proxy, can load the Fiddler Echo Service page; However, cannot download the certificate. This can be fixed by 'Promoting' the FiddlerRoot.cer rule above the :8888/ rule. Right click on the Fiddler.cer rule and click 'Promote'.
 
 Fig 3:
 
