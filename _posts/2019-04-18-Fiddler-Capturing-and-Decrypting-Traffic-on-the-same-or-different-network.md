@@ -16,7 +16,7 @@ How can Fiddler be setup as a proxy on the same or different networks to capture
 
 Keep reading for the complete guide on setting this up.
 
-##Prerequisites
+## Prerequisites
 
 1.	You need a Windows client machine to install Fiddler onto.
 2.	You need a way to bring Fiddler and the device you want to record traffic from together on the same network. This can be:
@@ -34,7 +34,7 @@ Fig 2:
 
 ![Fig 2, Fiddler Connections tab](/assets/images/FiddlerConnections.png)
 
-##Fiddler Echo Service
+## Fiddler Echo Service
 
 The goal is to make the Fiddler Echo Service page available to both local and remote clients.
 
@@ -44,7 +44,7 @@ Out of the box the Fiddler Echo Service is available on the local machine the Fi
 
 The issue will be connecting to the Fiddler echo service from a remote location. In the exmaple discussed we have Fiddler running on a Windows server in Azure. The connections make it to the machine as the sessions are seen captured by Fiddler. What we do not yet get on the remote device is the Fiddler Echo Service page, the browser just spins.
 
-##Setup the Fiddler Echo Service
+## Setup the Fiddler Echo Service
 
 1. From the prerequisites section you should have Fiddler capturing and decrypting traffic on the local computer.
 2. However to make sure Fiddler is capturing traffic, open a web browser and go to your favourite website of choice on the computer you have Fiddler running on, you should see the traffic captured in the tool. You should also see 'Capturing' in the bottom left hand corner of the tool.
@@ -68,7 +68,7 @@ Fig 3:
 
 ![Fig 3, Fiddler Echo Service page sessions](/assets/images/FiddlerAutoResponderConfig.png)
 
-##Client configuration
+## Client configuration
 
 1. We now have a Fiddler Echo Service page which loads for any client on the internet, regardless of whether the machine / device is configured to use the Fiddler proxy in it's proxy settings or not.
 2. Clients need to download the certificate from the Fiddler Echo Service page, install it and trust it, so the Fiddler proxy can decrypt the traffic.
