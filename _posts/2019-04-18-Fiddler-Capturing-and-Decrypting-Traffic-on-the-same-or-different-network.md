@@ -10,7 +10,7 @@ excerpt: "How do you capture Fiddler traces from mobile devices or non-Windows c
 
 The typical scenario when we use Fiddler is to install the application and configure HTTPS decryption on the computer seeing an issue. 
 
-What happens though if you need to capture HTTPS traffic from a non-Windows OS device like a Linux machine or mobile device? You cannot install a Windows application on a mobile device. 
+What happens though if you need to capture HTTPS traffic from a non-Windows OS device like a Linux machine or mobile device? You cannot install a Windows application on a mobile device, its either difficult or impossible to install Windows applications on non-Windows Operating Systems.
 
 How can Fiddler be setup as a proxy on the same or different networks to capture data from mobile devices or non-Windows Operating System computers? 
 
