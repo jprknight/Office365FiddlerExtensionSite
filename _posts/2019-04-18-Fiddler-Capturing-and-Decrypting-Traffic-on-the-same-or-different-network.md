@@ -20,7 +20,9 @@ Keep reading for the complete guide on setting this up.
 
 1.	You need a Windows client machine to install Fiddler onto.
 2.	You need a way to bring Fiddler and the device you want to record traffic from together on the same network. This can be:
+    
     a. A wireless router to connect a mobile device via WiFi to the same network as your Windows computer running Fiddler.
+    
     b. A public IP address on the internet you can point your mobile device or computer to.
 3.	Make sure both 'Capture HTTPS CONNECTs' and 'Decrypt HTTPS traffic' are selected in Fiddler under the Tools menu, Options, HTTPS tab.
 4.	Make sure the ‘Allow remote computers to connect’ is checked in Fiddler under the Tools, Options, Connections tab.
