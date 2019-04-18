@@ -55,7 +55,7 @@ The issue will be connecting to the Fiddler echo service from a remote location.
 5. We are expecting to see the 'Fiddler Echo Service' web page. If you do not, check the prerequisites section or post comments below.
 6. Download the FiddlerRoot certificate, save it, it does not matter where. We are not going to use the saved file, we are in fact going to use the Fiddler certificate, captured by Fiddler to serve up to client devices.
 7. Stop capturing. Notice we do not enable this again, we do not need to capture any more local traffic.
-8. Back in fiddler select all frames on the left hand side, then CTRL click the two frames shown below in Fig 1 to deselect those frames. Everything else is just noise,  including the favicon. Remove the selected sessions.
+8. Back in fiddler select all frames on the left hand side, then CTRL click the two frames shown below in Fig 3 to deselect those frames. Everything else is just noise,  including the favicon. Remove the selected sessions.
 9. We want to only see the two frames shown below in Fig 3.
 11. Drag and drop the two frames from the left panel to the right panel one at a time.
 12. This creates two rules for the AutoResponder.
