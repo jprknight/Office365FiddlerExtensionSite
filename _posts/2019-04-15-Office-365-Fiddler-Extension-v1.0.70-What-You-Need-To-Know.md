@@ -15,7 +15,7 @@ Release date: To Be Determined, though planned for end of April / beginning of M
 Here is a list of the things you need to know in the new release to make your transition easier:
 
 * First and foremost, the 'Exchange Online Fiddler Extension' will be known as the 'Office 365 Fiddler Extension' going forward.
-    * Though the extension has grown out of the Exchange Online team, the extension is just as useful for any Office 365 client application troubelshooting.
+    * Though the extension has grown out of the Exchange Online team, the extension is just as useful for any Office 365 client application troubleshooting.
 * The 'Exchange Online' inspector tab has been renamed to 'Office 365'.
 * The menu has also been renamed to 'Office 365'.
 * The menu name will change depending on whether the extension is enabled or disabled.
