@@ -16,7 +16,7 @@ What is likely happening here is Fiddler is attempting to decrypt the authentica
 
 What we need to to do is exclude your Federation service AuthURL from decryption. This will let authentication do what it needs to do and let you get back to what you were originally working on. If your not sure what your AuthURL is it can be found here: [https://login.microsoftonline.com/GetUserRealm.srf?Login=user@domain.com&xml=1](https://login.microsoftonline.com/GetUserRealm.srf?Login=user@domain.com&xml=1)
 
-Grab the first part of this extended URL, for example sts.domain.com.
+You just need the first of of the AuthURL which is likely something similar to this: https://sts.domain.com/adfs/ls/?username=user%40domain.com&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=
 
 In Fiddler go to Tools, Options, HTTPS tab and type sts.domain.com into the 'Skip decryption' box.
 
