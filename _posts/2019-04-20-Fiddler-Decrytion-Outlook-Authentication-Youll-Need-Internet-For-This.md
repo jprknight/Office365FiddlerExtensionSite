@@ -1,6 +1,6 @@
 ---
 title: "Office 365 troubleshooting: Fiddler HTTPS decryption and Outlook authentication 'You'll need internet for this.'"
-date: 2019-04-18
+date: 2019-04-20
 categories: [Knowledge-Base]
 tags: [Fiddler, Office 365]
 header:
@@ -8,7 +8,7 @@ header:
 excerpt: "You are troubleshooting Outlook and Exchange Online. You have Fiddler running to troubleshoot with HTTPS decryption enabled. You expect a modern authentication forms page as you load Outlook, but you actually see 'You'll need internet for this' on the form instead."
 ---
 
-You are troubleshooting Outlook and Exchange Online. You have Fiddler running to troubleshoot with HTTP decryption enabled. You expect a modern authentication forms page as you load Outlook, but you actually see 'You'll need internet for this' on the form instead.
+You are troubleshooting Outlook and Exchange Online. You have Fiddler running to troubleshoot with HTTPS decryption enabled. You expect a modern authentication forms page as you load Outlook, but you actually see 'You'll need internet for this' on the form instead.
 
 This can be a frustrating issue, you're troubleshooting Outlook and as soon as you run Fiddler with HTTPS decryption enabled to investigate, you have this issue. Your now troubleshooting the troubleshooting.
 
